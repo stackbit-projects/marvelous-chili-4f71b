@@ -4,7 +4,8 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: /images/4-desafios-migracao-em-nuvem-01-1024x512.png
+    image: >-
+      /images/cloud-services-isometric-composition-with-flat-silhouette-pictograms-big-cloud-storage-with-people-vector-illustration_1284-30499.jpg
     image_alt: App preview on a phone and tablet
     title: Multi-Platform cloud Services
     content: >
