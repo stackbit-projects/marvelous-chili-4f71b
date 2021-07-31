@@ -5,6 +5,7 @@ sections:
     type: section_hero
     image_alt: App preview
     actions: []
+    image: /images/fabulous-cedar.png
   - section_id: services
     type: section_features
     background: gray
