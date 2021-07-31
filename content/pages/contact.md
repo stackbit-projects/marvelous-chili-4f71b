@@ -6,8 +6,8 @@ sections:
     background: gray
     title: Contact
     content: >
-      Greetings from ***Myndkloud. ***We would be glad to assist you. For any
-      queries we are just one click away.
+      Greetings from ***Myndkloud***. We would be glad to assist you. For any
+      queries, we are just one click away.
     form_id: contactForm
     form_fields:
       - input_type: text
