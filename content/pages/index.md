@@ -15,7 +15,6 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
       - title: 'Cloud Services, made easy!'
         image: /images/incredible-panda.png
