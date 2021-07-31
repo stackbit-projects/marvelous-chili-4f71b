@@ -15,7 +15,7 @@ sections:
     title: Our Services
     subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
-      - title: Data migration
+      - title: AWS DATA MIGRATION SERVICES
         image: /images/melodic-thyme.jpg
         image_alt: App preview on a phone and tablet
         content: >
