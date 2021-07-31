@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/Untitled.png
+    image: /images/purple-cloud-computing_1200xx1191-670-5-0.png
     image_alt: App preview
     title: >-
       We help people & organizations evolve faster to achieve their true
