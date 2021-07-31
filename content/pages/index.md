@@ -34,7 +34,8 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Data Migration Services
-        image: images/feature2.png
+        image: >-
+          /images/pngtree-modern-flat-design-concept-of-data-security-a-man-standing-using-png-image_2157853.jpg
         image_alt: App users welcoming a new member
         content: "Move your data to the cloud with agility at zero loss. Our end-to-end data modernization services including data center migration, database migration & management, and managed analytics with BI. Transform your information security posture and embed automated threat detection, mediation tools backed by\_**24/7/365**\_support.\n"
         actions:
