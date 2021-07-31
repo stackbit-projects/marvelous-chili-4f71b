@@ -36,7 +36,7 @@ sections:
           blueprints, collaborative structure implementation, advanced tools
           deployment, AI-Machine Learning integration, and more.
         actions:
-          - label: Learn More
+          - label: More Services
             url: /data-migration-2
             style: secondary
             has_icon: true
