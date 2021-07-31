@@ -35,16 +35,14 @@ Myndkloud is a cloud service-providing company. We have a list of clients, who a
 
 *   Cloud Services.
 
-*   Data migration, 
+*   Data migration,
 
-*   Data warehouse migration, 
+*   Data warehouse migration,
 
-*   AWS data migration services, 
+*   AWS data migration services,
 
-*   AZURE data migration services, 
+*   AZURE data migration services,
 
-*   Modern application delivery, etc. 
-
-
+*   Modern application delivery, etc.
 
 We are going through unprecedented times and now more than ever businesses are required to tap into cloud’s benefits. We help you maximize cloud benefits and achieve breakthrough outcomes throughout your cloud journey. Our team of cloud experts deliver the desired outcomes through a structured approach, partnership framework, innovation enabling methodologies, and accelerators. We deliver open, resilient, and security-rich cloud solutions that deliver the highest value at speed and enable your organization to scale new heights!
