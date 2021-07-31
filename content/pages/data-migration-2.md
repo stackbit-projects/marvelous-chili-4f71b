@@ -19,13 +19,12 @@ sections:
         image: /images/melodic-thyme.jpg
         image_alt: App preview on a phone and tablet
         content: >
-          Accelerated and Seamless Data Migration on Scalable Platforms While
-          migrating to cloud platform is a no-brainer, there are several
-          challenges and obstacles that are often preventing organizations from
-          realizing the full benefits of migration. With migrations of
-          databases, applications, middleware platforms, and cloud, Myndkloud
-          has developed the best practices in cloud migrations to deliver
-          agility scalability, faster time-to-market, and cost advantages.
+          Myndkloud and AWS partnership deliver complete data migration
+          solutions with performance and scale. With a highly resilient
+          framework and accelerators, we facilitate homogenous and heterogenous
+          data migrations to the AWS platform. Myndkloud’s AWS certified
+          experts, help your organization expeditiously migrate data with
+          minimal downtime.
         actions:
           - label: Learn More
             url: /features
