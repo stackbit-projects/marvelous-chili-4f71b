@@ -16,7 +16,7 @@ sections:
     subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
       - title: Data migration
-        image: /images/incredible-panda.png
+        image: /images/melodic-thyme.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Accelerated and Seamless Data Migration on Scalable Platforms While
