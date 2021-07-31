@@ -6,8 +6,7 @@ sections:
     image_alt: App preview
     title: Data migration
     actions:
-      - label: Learn More
-        url: /data-migration 2
+      - url: /data-migration 2
         style: primary
   - section_id: services
     type: section_features
