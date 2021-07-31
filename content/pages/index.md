@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: Our Services
     subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
       - title: 'Cloud Services, made easy!'
