@@ -35,13 +35,7 @@ sections:
           Azure Cloud at scale. Our Azure data migration services deliver higher
           productivity, reduced maintenance, enhanced information flow, and cost
           advantages.
-        actions:
-          - label: Back
-            url: /data-migration
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Modern Application Delivery
         image: /images/green-wallaby.png
         image_alt: App user profile preview
