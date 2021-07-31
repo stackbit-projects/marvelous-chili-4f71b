@@ -41,7 +41,7 @@ sections:
           advantages.
         actions:
           - label: Back
-            url: /features
+            url: /data-migration
             style: secondary
             has_icon: true
             icon: arrow-right
