@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Myndkloud **is a cloud service-providing company. We have a list of clients, who are highly satisfied with our services. We as a team work closely with our clients to provide them promising results. With our innovative skills, we have successfully switched their business to the next level of business heights. We also have successful records in,
+***Myndkloud*** is a cloud service-providing company. We have a list of clients, who are highly satisfied with our services. We as a team work closely with our clients to provide them promising results. With our innovative skills, we have successfully switched their business to the next level of business heights. We also have successful records in,
 
 *   **Cloud Services.**
 
