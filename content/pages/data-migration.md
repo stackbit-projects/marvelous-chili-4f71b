@@ -51,7 +51,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Cool Feature of our Services
+      - title: DATA WAREHOUSE MIGRATION
         image: /images/green-wallaby.png
         image_alt: App user profile preview
         content: >
