@@ -19,7 +19,7 @@ sections:
       data intelligence, automated analytical reporting, and uninterrupted
       business continuity.
     actions:
-      - label: Free Trial
+      - label: More Services
         url: /signup
         style: primary
       - label: View Demo
