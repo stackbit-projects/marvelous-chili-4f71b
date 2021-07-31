@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    image: images/feature1.png
+    image: /images/4-desafios-migracao-em-nuvem-01-1024x512.png
     image_alt: App preview on a phone and tablet
     title: Multi-Platform cloud Services
     content: >
