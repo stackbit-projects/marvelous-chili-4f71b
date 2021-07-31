@@ -3,7 +3,8 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: >-
+      /images/pngtree-modern-flat-design-concept-of-cloud-computing-cloud-storage-data-center-png-image_2157932.jpg
     image_alt: App preview
     title: This Is A Big Hero Headline
     content: >-
