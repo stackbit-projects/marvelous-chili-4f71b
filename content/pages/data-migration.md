@@ -65,7 +65,7 @@ sections:
             icon: arrow-right
             icon_position: right
           - label: Home Page
-            url: lorem-ipsum
+            url: /
             style: link
             has_icon: false
             icon: arrow-left
