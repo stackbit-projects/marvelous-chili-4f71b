@@ -5,6 +5,7 @@ sections:
     type: section_hero
     image_alt: App preview
     actions: []
+    title: our services
   - section_id: services
     type: section_features
     background: gray
