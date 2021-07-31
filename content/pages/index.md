@@ -19,7 +19,7 @@ sections:
     subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
       - title: 'Cloud Services, made easy!'
-        image: images/feature1.png
+        image: /images/magical-lettuce.png
         image_alt: App preview on a phone and tablet
         content: >
           Cloud migration has become a necessity rather than a trend. As your
