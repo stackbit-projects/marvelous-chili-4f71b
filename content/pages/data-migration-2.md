@@ -59,7 +59,7 @@ sections:
             icon: arrow-right
             icon_position: right
           - label: Home Page
-            url: /
+            url: /services
             style: primary
             has_icon: false
             icon: arrow-left
