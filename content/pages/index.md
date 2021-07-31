@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/Image1zd7-1603455112099.png
+    image: /images/Image1zd7-1603455112099 - Copy.png
     image_alt: App preview
     title: >-
       We help people & organizations evolve faster to achieve their true
