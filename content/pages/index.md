@@ -10,7 +10,7 @@ sections:
       potential
     actions:
       - label: Learn More
-        url: /About Us
+        url: /about
         style: primary
   - section_id: features
     type: section_features
