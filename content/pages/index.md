@@ -6,9 +6,9 @@ sections:
     image: /images/Untitled.png
     image_alt: App preview
     title: 'Cloud Services, made easy!'
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      We help people & organizations evolve faster to achieve their true
+      potential
     actions:
       - label: Learn More
         url: /features
