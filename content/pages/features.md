@@ -20,7 +20,7 @@ sections:
       business continuity.
     actions:
       - label: More Services
-        url: /data
+        url: /data-migration
         style: primary
       - label: Back
         url: /
