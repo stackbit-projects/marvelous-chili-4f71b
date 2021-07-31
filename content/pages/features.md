@@ -1,7 +1,7 @@
 ---
 title: Features
 sections:
-  - section_id: 'features, hero'
+  - section_id: 'features, '
     type: section_content
     background: gray
     image: >-
