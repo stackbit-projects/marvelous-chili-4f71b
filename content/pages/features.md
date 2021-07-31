@@ -22,7 +22,7 @@ sections:
       - label: More Services
         url: /signup
         style: primary
-      - label: View Demo
+      - label: Back
         url: '#'
         style: secondary
   - section_id: call-to-action
