@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: >-
       We help people & organizations evolve faster to achieve their true
-      potential
+      potentia
     actions:
       - label: Learn More
         url: /about
