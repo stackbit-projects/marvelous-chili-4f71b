@@ -7,21 +7,16 @@ sections:
     image: images/feature1.png
     image_alt: App preview on a phone and tablet
     title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      Cloud solutions delivered at scale and speed to propel your business
+      transformation
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      Enterprises can seamlessly embrace multi-platform cloud services under a
+      single, pay-per-use SLA with advanced security, global compliance
+      adherence, smart workflow, and network management, IT modernization and
+      data intelligence, automated analytical reporting, and uninterrupted
+      business continuity.
     actions:
       - label: Free Trial
         url: /signup
