@@ -12,7 +12,6 @@ sections:
   - section_id: services
     type: section_features
     background: gray
-    title: Our Services
     subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
       - title: AWS DATA MIGRATION SERVICES
