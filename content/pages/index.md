@@ -23,10 +23,11 @@ sections:
       - title: 'Cloud Services, made easy!'
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Cloud migration has become a necessity rather than a trend. As your
+          end-to-end cloud migration partner, We extend a custom Cloud Adoption
+          Framework encompassing strategy, planning, deployment, and governance
+          phases that empower clients to best leverage adopted cloud platforms.
         actions:
           - label: Learn More
             url: /features
