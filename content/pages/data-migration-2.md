@@ -56,7 +56,7 @@ sections:
           to innovate faster, scale agile, reduce time-to-market, and generate
           greater value.
         actions:
-          - label: Learn More
+          - label: Back
             url: /features
             style: secondary
             has_icon: true
