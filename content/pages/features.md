@@ -23,7 +23,7 @@ sections:
         url: /signup
         style: primary
       - label: Back
-        url: '#'
+        url: /
         style: secondary
   - section_id: call-to-action
     type: section_cta
