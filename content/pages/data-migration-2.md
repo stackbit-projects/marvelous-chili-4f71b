@@ -60,7 +60,7 @@ sections:
             icon_position: right
           - label: Home Page
             url: /
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: left
