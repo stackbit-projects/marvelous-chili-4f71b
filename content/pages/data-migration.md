@@ -9,7 +9,7 @@ sections:
       - label: Learn More
         url: /about
         style: primary
-  - section_id: features
+  - section_id: services
     type: section_features
     background: gray
     title: Our Services
