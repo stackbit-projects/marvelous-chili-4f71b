@@ -16,9 +16,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
       - title: 'Cloud Services, made easy!'
         image: images/feature1.png
