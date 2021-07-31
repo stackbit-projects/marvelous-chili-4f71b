@@ -20,7 +20,7 @@ sections:
       business continuity.
     actions:
       - label: Back
-        url: /services
+        url: /
         style: secondary
   - section_id: call-to-action
     type: section_cta
