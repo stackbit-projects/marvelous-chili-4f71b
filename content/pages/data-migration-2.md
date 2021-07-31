@@ -36,13 +36,11 @@ sections:
         image: /images/maroon-giraffe.jpg
         image_alt: App users welcoming a new member
         content: >
-          Different DBMS makes use of varying protocols and languages.
-          Therefore, data migration does not follow a linear path. Our experts
-          follow a systemized approach involving analysis, assessment,
-          migration, and optimization. Our database migration services deliver
-          seamless and lossless data migration from one database engine to
-          another. Our experts facilitate end-to-end database migration using a
-          standardized and re-deployable migration and management framework.
+          As a Microsoft Cloud Partner, we facilitate seamless and easy
+          migration of data, schema, and objects from varying sources to the
+          Azure Cloud at scale. Our Azure data migration services deliver higher
+          productivity, reduced maintenance, enhanced information flow, and cost
+          advantages.
         actions:
           - label: Learn More
             url: /features
