@@ -21,11 +21,12 @@ sections:
       - title: 'Cloud Services, made easy!'
         image: /images/incredible-panda.png
         image_alt: App preview on a phone and tablet
-        content: >
-          Cloud migration has become a necessity rather than a trend. As your
-          end-to-end cloud migration partner, We extend a custom Cloud Adoption
-          Framework encompassing strategy, planning, deployment, and governance
-          phases that empower clients to best leverage adopted cloud platforms.
+        content: >+
+          Myndkloud provides the expertise and tools your enterprise needs to
+          adopt cloud practices. Our full range of cloud services helps you gain
+          data-driven insights on how cloud adoption will transform your
+          organization.
+
         actions:
           - label: Learn More
             url: /features
