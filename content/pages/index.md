@@ -35,7 +35,7 @@ sections:
       - title: Data Migration Services
         image: /images/maroon-giraffe.jpg
         image_alt: App users welcoming a new member
-        content: "Move your data to the cloud with agility at zero loss. Our end-to-end data modernization services including data center migration, database migration & management, and managed analytics with BI. Transform your information security posture and embed automated threat detection, mediation tools backed by\_**24/7/365**\_support.\n"
+        content: "Myndkloud provides you end-to-end data modernization services including data center migration, database migration & management, and managed analytics with BI. We guarantee our \_**24/7/365**\_support to our clients.\n"
         actions:
           - label: Learn More
             url: /data-migration
