@@ -16,7 +16,7 @@ sections:
     type: section_features
     background: gray
     features:
-      - title: 'Cloud Services, made easy!'
+      - title: Cloud Services
         image: /images/incredible-panda.png
         image_alt: App preview on a phone and tablet
         content: >+
