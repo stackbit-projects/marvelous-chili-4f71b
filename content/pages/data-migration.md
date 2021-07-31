@@ -7,7 +7,7 @@ sections:
     title: Data migration
     actions:
       - label: Learn More
-        url: /about
+        url: /data-migration 2
         style: primary
   - section_id: services
     type: section_features
