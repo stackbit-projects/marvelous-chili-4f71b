@@ -59,7 +59,7 @@ sections:
           identified, cleaned, and tagged before the migration.
         actions:
           - label: Learn More
-            url: /data-migration 2
+            url: /data-migration-2
             style: secondary
             has_icon: true
             icon: arrow-right
