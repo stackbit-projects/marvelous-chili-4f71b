@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/maroon-pineapple.jpg
     image_alt: App preview
     actions:
       - label: Learn More
