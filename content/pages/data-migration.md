@@ -36,7 +36,14 @@ sections:
       - title: DATABASE MIGRATION
         image: /images/maroon-giraffe.jpg
         image_alt: App users welcoming a new member
-        content: "Move your data to the cloud with agility at zero loss. Our end-to-end data modernization services including data center migration, database migration & management, and managed analytics with BI. Transform your information security posture and embed automated threat detection, mediation tools backed by\_**24/7/365**\_support.\n"
+        content: >
+          Different DBMS makes use of varying protocols and languages.
+          Therefore, data migration does not follow a linear path. Our experts
+          follow a systemized approach involving analysis, assessment,
+          migration, and optimization. Our database migration services deliver
+          seamless and lossless data migration from one database engine to
+          another. Our experts facilitate end-to-end database migration using a
+          standardized and re-deployable migration and management framework.
         actions:
           - label: Learn More
             url: /features
