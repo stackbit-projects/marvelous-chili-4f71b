@@ -7,7 +7,7 @@ sections:
     image: >-
       /images/cloud-services-isometric-composition-with-flat-silhouette-pictograms-big-cloud-storage-with-people-vector-illustration_1284-30499.jpg
     image_alt: App preview on a phone and tablet
-    title: Multi-Platform cloud Services
+    title: Multi-Platform Cloud Services
     content: >
       Cloud solutions delivered at scale and speed to propel your business
       transformation
