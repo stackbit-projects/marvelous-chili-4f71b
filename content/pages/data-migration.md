@@ -19,10 +19,13 @@ sections:
         image: /images/incredible-panda.png
         image_alt: App preview on a phone and tablet
         content: >
-          Cloud migration has become a necessity rather than a trend. As your
-          end-to-end cloud migration partner, We extend a custom Cloud Adoption
-          Framework encompassing strategy, planning, deployment, and governance
-          phases that empower clients to best leverage adopted cloud platforms.
+          Accelerated and Seamless Data Migration on Scalable Platforms While
+          migrating to cloud platform is a no-brainer, there are several
+          challenges and obstacles that are often preventing organizations from
+          realizing the full benefits of migration. With migrations of
+          databases, applications, middleware platforms, and cloud, Myndkloud
+          has developed the best practices in cloud migrations to deliver
+          agility scalability, faster time-to-market, and cost advantages.
         actions:
           - label: Learn More
             url: /features
