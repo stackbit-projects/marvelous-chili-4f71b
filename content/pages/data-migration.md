@@ -65,7 +65,7 @@ sections:
             icon: arrow-right
             icon_position: right
           - label: Back
-            url: /
+            url: /services
             style: primary
             has_icon: false
             icon: arrow-left
