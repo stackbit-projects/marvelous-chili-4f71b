@@ -36,10 +36,7 @@ sections:
       - title: Data Migration Services
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: "Move your data to the cloud with agility at zero loss. Our end-to-end data modernization services including data center migration, database migration & management, and managed analytics with BI. Transform your information security posture and embed automated threat detection, mediation tools backed by\_**24/7/365**\_support.\n"
         actions:
           - label: Learn More
             url: /features
