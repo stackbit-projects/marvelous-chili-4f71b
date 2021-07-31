@@ -56,7 +56,7 @@ sections:
           deployment, AI-Machine Learning integration, and more.
         actions:
           - label: Learn More
-            url: /features
+            url: /data-migration-2
             style: secondary
             has_icon: true
             icon: arrow-right
