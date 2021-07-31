@@ -52,12 +52,11 @@ sections:
         image: /images/green-wallaby.png
         image_alt: App user profile preview
         content: >
-          Migrating your enterprise data warehouse to the cloud will allow your
-          teams to leverage untapped insights, and achieve dynamic scalability.
-          Myndkloud’s data warehouse migration services assist you in all the
-          phases of data warehouse migration without any loss in data fidelity.
-          Our team of data warehouse experts ensures data from all sources are
-          identified, cleaned, and tagged before the migration.
+          Modernize applications to rapidly deliver value at scale. With our
+          seamless modern cloud architecture designs, value-centric agile
+          delivery framework, and cloud operating models, we empower your teams
+          to innovate faster, scale agile, reduce time-to-market, and generate
+          greater value.
         actions:
           - label: Learn More
             url: /features
