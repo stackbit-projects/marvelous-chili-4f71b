@@ -24,7 +24,7 @@ sections:
           experts, help your organization expeditiously migrate data with
           minimal downtime.
         actions:
-          - label: Learn More
+          - label: Back
             url: /features
             style: secondary
             has_icon: true
