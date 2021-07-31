@@ -19,9 +19,6 @@ sections:
       data intelligence, automated analytical reporting, and uninterrupted
       business continuity.
     actions:
-      - label: More Services
-        url: /data-migration
-        style: primary
       - label: Back
         url: /
         style: secondary
