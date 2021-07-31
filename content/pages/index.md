@@ -8,9 +8,6 @@ sections:
     title: >-
       We help people & organizations evolve faster to achieve their true
       potential
-    content: >
-      We help people & organizations evolve faster to achieve their true
-      potential
     actions:
       - label: Learn More
         url: /features
