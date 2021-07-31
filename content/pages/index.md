@@ -32,7 +32,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Data Migration Services
+      - title: Expert in Data Migration
         image: /images/maroon-giraffe.jpg
         image_alt: App users welcoming a new member
         content: "Myndkloud provides you end-to-end data modernization services including data center migration, database migration & management, and managed analytics with BI. We guarantee our \_**24/7/365**\_support to our clients.\n"
