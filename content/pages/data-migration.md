@@ -24,7 +24,7 @@ sections:
           agility scalability, faster time-to-market, and cost advantages.
         actions:
           - label: Learn More
-            url: /features
+            url: /data-migration 2
             style: secondary
             has_icon: true
             icon: arrow-right
