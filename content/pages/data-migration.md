@@ -64,7 +64,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-          - label: Home Page
+          - label: Back
             url: /
             style: primary
             has_icon: false
