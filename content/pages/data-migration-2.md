@@ -25,7 +25,7 @@ sections:
           minimal downtime.
         actions:
           - label: Back
-            url: /features
+            url: /
             style: secondary
             has_icon: true
             icon: arrow-right
