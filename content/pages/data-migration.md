@@ -42,7 +42,7 @@ sections:
           standardized and re-deployable migration and management framework.
         actions:
           - label: Learn More
-            url: /features
+            url: /data-migration 2
             style: secondary
             has_icon: true
             icon: arrow-right
