@@ -47,12 +47,10 @@ sections:
         image: /images/green-wallaby.png
         image_alt: App user profile preview
         content: >
-          Our advanced DevOps services on Azure, AWS, or Google Cloud to embrace
-          an agile business delivery model. The end-to-end offerings and cloud
-          solutions include strategy roadmaps and workshops, maturity and
-          security assessments, workflow automation, cost optimization
-          blueprints, collaborative structure implementation, advanced tools
-          deployment, AI-Machine Learning integration, and more.
+          Myndcloud is not only an expert in Cloud service and Data migration
+          but also has a team of experts who offer other services as well. Our
+          other services include advanced DevOps services on Azure, AWS, or
+          Google Cloud to embrace an agile business delivery model. 
         actions:
           - label: Learn More
             url: /data-migration-2
