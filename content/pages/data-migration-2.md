@@ -4,9 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    actions:
-      - url: /data-migration 2
-        style: primary
+    actions: []
   - section_id: services
     type: section_features
     background: gray
