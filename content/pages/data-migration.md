@@ -4,9 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image_alt: App preview
-    title: >-
-      We help people & organizations evolve faster to achieve their true
-      potential
+    title: Data migration
     actions:
       - label: Learn More
         url: /about
