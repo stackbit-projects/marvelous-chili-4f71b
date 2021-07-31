@@ -39,7 +39,7 @@ sections:
         content: "Move your data to the cloud with agility at zero loss. Our end-to-end data modernization services including data center migration, database migration & management, and managed analytics with BI. Transform your information security posture and embed automated threat detection, mediation tools backed by\_**24/7/365**\_support.\n"
         actions:
           - label: Learn More
-            url: /features
+            url: /services
             style: secondary
             has_icon: true
             icon: arrow-right
