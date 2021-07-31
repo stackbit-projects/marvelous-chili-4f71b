@@ -53,12 +53,6 @@ sections:
           greater value.
         actions:
           - label: Back
-            url: /data-migration
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-          - label: Back
             url: /services
             style: primary
             has_icon: false
