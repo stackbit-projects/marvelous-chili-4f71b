@@ -55,12 +55,12 @@ sections:
         image: /images/green-wallaby.png
         image_alt: App user profile preview
         content: >
-          Our advanced DevOps services on Azure, AWS, or Google Cloud to embrace
-          an agile business delivery model. The end-to-end offerings and cloud
-          solutions include strategy roadmaps and workshops, maturity and
-          security assessments, workflow automation, cost optimization
-          blueprints, collaborative structure implementation, advanced tools
-          deployment, AI-Machine Learning integration, and more.
+          Migrating your enterprise data warehouse to the cloud will allow your
+          teams to leverage untapped insights, and achieve dynamic scalability.
+          Myndkloud’s data warehouse migration services assist you in all the
+          phases of data warehouse migration without any loss in data fidelity.
+          Our team of data warehouse experts ensures data from all sources are
+          identified, cleaned, and tagged before the migration.
         actions:
           - label: Learn More
             url: /features
