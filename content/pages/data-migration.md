@@ -15,7 +15,7 @@ sections:
     title: Our Services
     subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
-      - title: 'Cloud Services, made easy!'
+      - title: Data migration
         image: /images/incredible-panda.png
         image_alt: App preview on a phone and tablet
         content: >
