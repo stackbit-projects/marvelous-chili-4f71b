@@ -5,9 +5,6 @@ sections:
     type: section_hero
     image: /images/maroon-pineapple.jpg
     image_alt: App preview
-    title: >-
-      We help people & organizations evolve faster to achieve their true
-      potentia
     actions:
       - label: Learn More
         url: /about
