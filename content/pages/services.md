@@ -19,13 +19,7 @@ sections:
           end-to-end cloud migration partner, We extend a custom Cloud Adoption
           Framework encompassing strategy, planning, deployment, and governance
           phases that empower clients to best leverage adopted cloud platforms.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Data Migration Services
         image: /images/maroon-giraffe.jpg
         image_alt: App users welcoming a new member
