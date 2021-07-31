@@ -19,13 +19,7 @@ sections:
           data migrations to the AWS platform. Myndkloud’s AWS certified
           experts, help your organization expeditiously migrate data with
           minimal downtime.
-        actions:
-          - label: Back
-            url: /data-migration
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: AZURE DATA MIGRATION SERVICES
         image: /images/maroon-giraffe.jpg
         image_alt: App users welcoming a new member
