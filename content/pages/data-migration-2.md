@@ -32,7 +32,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: DATABASE MIGRATION
+      - title: AZURE DATA MIGRATION SERVICES
         image: /images/maroon-giraffe.jpg
         image_alt: App users welcoming a new member
         content: >
