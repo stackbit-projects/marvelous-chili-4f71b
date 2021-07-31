@@ -5,7 +5,9 @@ sections:
     type: section_hero
     image: /images/Untitled.png
     image_alt: App preview
-    title: 'Cloud Services, made easy!'
+    title: >-
+      We help people & organizations evolve faster to achieve their true
+      potential
     content: >
       We help people & organizations evolve faster to achieve their true
       potential
