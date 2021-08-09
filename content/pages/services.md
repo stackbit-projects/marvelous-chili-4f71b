@@ -12,7 +12,7 @@ sections:
     subtitle: We are your partner to chart an “intelligent future” for your enterprise.
     features:
       - title: 'Cloud Services, made easy!'
-        image: /images/incredible-panda.png
+        image: /images/How-Cloud-Computing-Is-Enhancing-Business-Operations.jpg
         image_alt: App preview on a phone and tablet
         content: >
           Cloud migration has become a necessity rather than a trend. As your
