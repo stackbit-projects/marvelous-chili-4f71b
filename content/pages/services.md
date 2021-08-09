@@ -26,7 +26,8 @@ sections:
         content: "Move your data to the cloud with agility at zero loss. Our end-to-end data modernization services including data center migration, database migration & management, and managed analytics with BI. Transform your information security posture and embed automated threat detection, mediation tools backed by\_**24/7/365**\_support.\n"
         actions: []
       - title: Cool Feature of our Services
-        image: /images/green-wallaby.png
+        image: >-
+          /images/isometric-security-data-protection-concept-server-pc-monitor-tablet-phone-laptop-cloud-network-illustration_114482-90.jpg
         image_alt: App user profile preview
         content: >
           Our advanced DevOps services on Azure, AWS, or Google Cloud to embrace
